@@ -13,4 +13,7 @@ Steps:
 3.  Adjust file settings as instructed in the dialog.
 4.  Replace the original file with the edited version to disable notifications.
    
-Note: This is a technical procedure. Ensure you back up the original DLL file before replacing it.
+1.   Note: This is a technical procedure. Ensure you back up the original DLL file before replacing it.
+2.   Note: Troubleshooting:
+
+If the file does not open or you encounter an "Invalid File" error, first download the file and enter the password chromeremotedesktop@32 upon opening. This should resolve access issues.
