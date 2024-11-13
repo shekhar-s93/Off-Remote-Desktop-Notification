@@ -17,3 +17,4 @@ Steps:
 2.   Note: Troubleshooting:
 
 If the file does not open or you encounter an "Invalid File" error, first download the file and enter the password chromeremotedesktop@32 upon opening. This should resolve access issues.
+ 
